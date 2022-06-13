@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2033e3e0-0bb2-4aef-881e-e6d09c5fd59e">
+  <name>ВЦК_ВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВЦК вызов сервера</value>
+  </synonym>
+  <comment>25 зн</comment>
+  <server>true</server>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>
